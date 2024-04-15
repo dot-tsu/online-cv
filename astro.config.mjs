@@ -6,6 +6,6 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   // integrations: [tailwind()],
   site: "https://tsuramii.github.io",
-  base: "/tsuramii",
-  integrations: [tailwind()]
+  base: "/online-cv",
+  integrations: [tailwind()],
 });
