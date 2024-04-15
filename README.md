@@ -1,31 +1,21 @@
-<h2 align="left">💫 About Me</h2>
+# Editable Online CV
 
-###
+This is a simple and easily editable online CV built with Astro and Tailwind CSS. It is inspired by [Bartosz Jarocki's online CV](https://github.com/BartoszJarocki/cv), but with a few modifications:
 
-<img align="right" height="150" src="https://i.pinimg.com/564x/8b/ca/09/8bca0911d0853ac23d87445d3eebd75e.jpg"  />
+- It uses Astro instead of Next.js.
+- The content is managed through a JSON file, making it easy to update your information.
+- It is optimized for printing, providing a clean and professional look when printed.
 
-###
+## Features
 
-<p align="left">🍃 Passionate full-stack dev and designer with a creative approach, excellence oriented and eye for user <br><br>🧩 With boundless enthusiasm for learning and growth, I bring creativity, dedication, and a love for problem-solving to every project.<br><br>☕ Also a musician, nerd and caffeine addict.</p>
+- **Responsive Design**: The CV is designed to look great on devices of all sizes.
+- **Editable Content**: Update your information by editing a simple JSON file.
+- **Astro and Tailwind CSS**: The project is built using Astro, a modern static site generator, and Tailwind CSS for styling.
 
-<br clear="both">
+## Printing
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-</div>
+To print your CV, simply open the deployed version in your web browser and use the browser's print function. The CV is designed to look clean and professional when printed.
+
+## License
+
+This project is licensed under the MIT License.
