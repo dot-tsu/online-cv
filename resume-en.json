@@ -26,14 +26,27 @@
   },
   "work": [
     {
+      "name": "dot tsu",
+      "position": "Freelance Full Stack Developer",
+      "url": "https://www.linkedin.com/in/luca-di-marco/",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "summary": "Since I started studying to become a Developer, I've gained professional experience through various freelance jobs: ",
+      "highlights": [
+        "Mentoring: Provided one-to-one guidance and tutoring to students, assisting them in their learning and skills development.",
+        "Mini-projects: Developed custom solutions for clients, addressing their specific needs and delivering high-quality products.",
+        "Website and web application development: Designed and built engaging and functional digital experiences using web development best practices"
+      ]
+    },
+    {
       "name": "Askbot",
-      "position": "Junior Frontend Developer",
+      "position": "Frontend Developer",
       "url": "https://askbot.site/",
       "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Sole developer responsible for all frontend aspects of the Askbot project.",
+      "endDate": "2024-04-01",
+      "summary": "Developer responsible for building the frontend for the Askbot project during a 3-month contract.",
       "highlights": [
-        "Optimized website performance, achieving a 20% reduction in page load times",
+        "Developed a high-performance frontend architecture with React",
         "Integrated frontend with backend APIs, delivering real-time updates and dynamic features",
         "Implemented SEO best practices, resulting in a 15% increase in organic search traffic.",
         "Integrated web analytics tools (e.g., Google Tag Manager) to track user behavior and marketing campaigns."
@@ -41,9 +54,9 @@
     },
     {
       "name": "ADN Soluciones Web",
-      "position": "Trainee Frontend Developer",
+      "position": "Frontend Developer",
       "url": "https://adnwebsolutions.github.io/ADN-Solutions/",
-      "startDate": "2023-07-01",
+      "startDate": "2023-05 -01",
       "endDate": "2024-01-01",
       "summary": "Collaborative project with colleagues from a bootcamp, focusing on web development.",
       "highlights": [
@@ -69,8 +82,8 @@
       "name": "7CAVAS",
       "position": "Web Master",
       "url": "https://7cavas.com/",
-      "startDate": "2020-11-01",
-      "endDate": "2021-05-01",
+      "startDate": "2020-02-01",
+      "endDate": "2022-11-01",
       "summary": "Managed and optimized web content for 7CAVAS, achieving significant improvements in user engagement and site performance.",
       "highlights": [
         "Optimized website performance, reducing page load times by 2 seconds.",
