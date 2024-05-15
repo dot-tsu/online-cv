@@ -123,16 +123,12 @@
   ],
   "skills": [
     {
-      "category": "UI/UX",
-      "names": ["HTML", "CSS", "Figma"]
-    },
-    {
       "category": "Programming Languages",
       "names": ["Javascript", "Python", "C"]
     },
     {
-      "category": "Frontend Frameworks",
-      "names": ["React", "Astro", "Next", "Tailwind"]
+      "category": "Frontend Technologies",
+      "names": ["HTML", "CSS", "React", "Astro", "Tailwind"]
     },
     {
       "category": "Backend Frameworks",
@@ -141,6 +137,10 @@
     {
       "category": "Databases",
       "names": ["MySQL", "SQLite", "MongoDB"]
+    },
+    {
+      "category": "Other Tools",
+      "names": ["Git", "GitHub", "npm", "bun"]
     },
     {
       "category": "Soft Skills",
