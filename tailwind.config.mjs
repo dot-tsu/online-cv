@@ -3,11 +3,12 @@ export default {
   content: ["./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}"],
   theme: {
     colors: {
-      primary: "#c3b93d",
-      secondary: "#e6df89",
-      accent: "#e8dc4c",
-      content: "#13120a",
-      background: "#fafaf4",
+      primary: "#232121",
+      secondary: "#434040",
+      muted: "#5E5A5A",
+      background: "#F5F3F0",
+      surface: "#CDCBCB",
+      accent: "#E0A458",
     },
     fontFamily: {
       sans: ["Miriam Libre", "sans-serif"],
