@@ -8,7 +8,7 @@ export default {
       muted: "#5E5A5A",
       background: "#F5F3F0",
       surface: "#CDCBCB",
-      accent: "#E0A458",
+      accent: "#00ABE7",
     },
     fontFamily: {
       sans: ["Miriam Libre", "sans-serif"],
