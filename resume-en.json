@@ -4,7 +4,7 @@
     "label": "Full-Stack Developer",
     "email": "lucanahtsu@gmail.com",
     "phone": "+54 9 387 619-6032",
-    "url": "https://tsuramii.github.io/cv/",
+    "url": "https://dot-tsu.github.io/cv/",
     "image": "https://media.licdn.com/dms/image/D4D03AQFaA8-Mv4EzOg/profile-displayphoto-shrink_800_800/0/1715614391104?e=1721260800&v=beta&t=VqwfUsv2KgrjQBvlFnuxxOaqYHXGBvShMxGaZ6m41h8",
     "summary": "Detail-oriented web developer with a passion for crafting sleek, user-friendly interfaces.\nEager to explore opportunities and contribute creativity, innovation, and technical expertise to collaborative software development projects.",
     "location": {
@@ -20,8 +20,8 @@
       },
       {
         "network": "GitHub",
-        "username": "tsuramii",
-        "url": "https://www.github.com/tsuramii/"
+        "username": "dot-tsu",
+        "url": "https://www.github.com/dot-tsu/"
       }
     ]
   },
@@ -164,7 +164,7 @@
       "isActive": true,
       "description": "A simple app to easily check your ping",
       "highlights": ["End-To-End Developer", "TypeScript", "Astro", "Tailwind"],
-      "url": "https://tsuramii.github.io/laggy-or-not/"
+      "url": "https://dot-tsu.github.io/laggy-or-not/"
     },
     {
       "name": "Askbot",
@@ -201,8 +201,8 @@
         "MongoDB",
         "Express"
       ],
-      "url": "https://tsuramii.github.io/mytinerary-front/",
-      "github": "https://github.com/tsuramii/myTinerary-front"
+      "url": "https://dot-tsu.github.io/mytinerary-front/",
+      "github": "https://github.com/dot-tsu/myTinerary-front"
     },
     {
       "name": "Frontend Mentor",
@@ -215,8 +215,8 @@
         "React",
         "Tailwind"
       ],
-      "url": "https://www.frontendmentor.io/profile/tsuramii",
-      "github": "https://github.com/stars/tsuramii/lists/frontend-mentor"
+      "url": "https://www.frontendmentor.io/profile/dot-tsu",
+      "github": "https://github.com/stars/dot-tsu/lists/frontend-mentor"
     }
   ]
 }
