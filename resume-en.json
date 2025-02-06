@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Luca Di Marco",
-    "label": "Full-Stack Developer",
+    "label": "Frontend dev @ WeDevelop | Shaping tomorrow with today’s code",
     "email": "lucanahtsu@gmail.com",
-    "phone": "+54 9 387 619-6032",
-    "url": "https://dot-tsu.github.io/cv/",
+    "phone": "+54 387 619-6032",
+    "url": "https://dot-tsu.github.io",
     "image": "images/profile.jpeg",
-    "summary": "Detail-oriented web developer with a passion for crafting sleek, user-friendly interfaces.\nEager to explore opportunities and contribute creativity, innovation, and technical expertise to collaborative software development projects.",
+    "summary": "Made my first website at 9 years old. Currently skilled developer in TypeScript, Astro, NextJS, CSS/Tailwind and React. Constantly learning and believing that tomorrow is always better.",
     "location": {
       "city": "Salta",
       "countryCode": "AR",
@@ -27,91 +27,101 @@
   },
   "work": [
     {
-      "name": "dot tsu",
-      "position": "Freelance Full Stack Developer",
-      "url": "https://www.linkedin.com/in/luca-di-marco/",
-      "startDate": "2021-01-01",
+      "name": "Nubel",
+      "position": "Front End Developer",
+      "startDate": "2024-09",
       "endDate": null,
-      "summary": "Since I started studying to become a Developer, I've gained professional experience through various freelance jobs: ",
-      "highlights": [
-        "Mentoring: Provided one-to-one guidance and tutoring to students, assisting them in their learning and skills development.",
-        "Mini-projects: Developed custom solutions for clients, addressing their specific needs and delivering high-quality products.",
-        "Website and web application development: Designed and built engaging and functional digital experiences using web development best practices"
-      ]
+      "summary": "Developing an innovative hiring platform under WeDevelop that goes beyond traditional resumes",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://www.nubel.ca/in/luca-di-marco/"
     },
     {
-      "name": "Askbot",
-      "position": "Frontend Developer",
-      "url": "https://askbot.site/",
-      "startDate": "2024-01-01",
-      "endDate": "2024-04-01",
-      "summary": "Developer responsible for building the frontend for the Askbot project during a 3-month contract.",
+      "name": "WeDevelop",
+      "position": "Full Stack Developer",
+      "startDate": "2024-09",
+      "endDate": null,
+      "location": "Florida, United States",
+      "url": "https://wedevelop.me"
+    },
+    {
+      "name": "dot tsu",
+      "position": "Full Stack Developer",
+      "url": "https://www.linkedin.com/in/luca-di-marco/",
+      "startDate": "2021-11",
+      "endDate": "2024-09",
+      "summary": "Collaborated with startups and small companies to enhance their digital presence",
+      "location": "Salta, Argentina",
       "highlights": [
-        "Developed a high-performance frontend architecture with React",
-        "Integrated frontend with backend APIs, delivering real-time updates and dynamic features",
-        "Implemented SEO best practices, resulting in a 15% increase in organic search traffic.",
-        "Integrated web analytics tools (e.g., Google Tag Manager) to track user behavior and marketing campaigns."
+        "Mentoring: Provided one-to-one guidance and tutoring to students",
+        "Developed custom solutions for clients",
+        "Website and web application development"
       ]
     },
     {
       "name": "ADN Soluciones Web",
-      "position": "Frontend Developer",
+      "position": "Front End Developer",
       "url": "https://adnwebsolutions.github.io/ADN-Solutions/",
-      "startDate": "2023-05 -01",
-      "endDate": "2024-01-01",
-      "summary": "Collaborative project with colleagues from a bootcamp, focusing on web development.",
+      "startDate": "2023-05",
+      "endDate": "2024-05",
+      "summary": "Collaborative startup, focusing on web development for small businesses",
+      "location": "Córdoba, Argentina",
       "highlights": [
-        "Contributed to the success of 3 group projects, delivering impactful frontend solutions and meeting project goals.",
-        "Mastered version control with Git, ensuring efficient collaboration and code management.",
-        "Took ownership of designing and developing the company's landing page from concept to completion."
+        "Contributed to 3 group projects",
+        "Designed company's landing page",
+        "Mastered git version control"
       ]
     },
     {
       "name": "SaTech / Country Club: El Tipal",
       "position": "Assistant Software Engineer",
       "url": "https://www.eltipalsalta.com.ar/",
-      "startDate": "2022-07-01",
-      "endDate": "2023-07-01",
+      "startDate": "2022-07",
+      "endDate": "2023-07",
       "summary": "Contributed to the development and optimization of a reliable security system",
       "highlights": [
-        "Programmed custom features for the security system, reducing false alarms by 15%.",
-        "Optimized codebase to reduce memory usage by 35%.",
-        "Received positive feedback from clients and users for delivering a reliable and user-friendly security solution."
+        "Reduced false alarms by 15%",
+        "Optimized memory usage by 35%",
+        "Received positive client feedback"
       ]
     },
     {
       "name": "7CAVAS",
       "position": "Web Master",
       "url": "https://7cavas.com/",
-      "startDate": "2020-02-01",
-      "endDate": "2022-11-01",
-      "summary": "Managed and optimized web content for 7CAVAS, achieving significant improvements in user engagement and site performance.",
+      "startDate": "2020-02",
+      "endDate": "2022-11",
+      "summary": "Managed and optimized web content for 7CAVAS WordPress site",
       "highlights": [
-        "Optimized website performance, reducing page load times by 2 seconds.",
-        "Implemented SEO best practices, leading to a 20% improvement in search engine rankings.",
-        "Optimized meta tags and descriptions to improve click-through rates.",
-        "Managed social media presence and campaigns, driving a 23% increase in referral traffic."
+        "Reduced page load times by 2 seconds",
+        "Improved SEO rankings by 20%",
+        "Increased referral traffic by 23%"
       ]
     }
   ],
   "education": [
     {
+      "institution": "Open Source Society University",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Computer Science",
+      "startDate": "2024-07",
+      "endDate": "2027-07"
+    },
+    {
       "institution": "Harvard Online",
       "url": "https://pll.harvard.edu/course/cs50-introduction-computer-science",
-      "area": "Computer Science",
+      "area": "Introduction to Computer Science",
       "studyType": "Course",
-      "startDate": "2023-01-01",
-      "endDate": "2024-01-05",
-      "score": "10.0"
+      "startDate": "2023-02",
+      "endDate": "2023-12"
     },
     {
       "institution": "Argentina Programa",
       "url": "https://argentinaprograma.unsam.edu.ar/",
-      "area": "Fullstack Web Development",
-      "studyType": "Courses and Bootcamps",
-      "startDate": "2022-01-02",
-      "endDate": "2023-01-05",
-      "score": "10.0"
+      "area": "Computer Software Engineering",
+      "studyType": "Courses",
+      "startDate": "2022-01",
+      "endDate": "2023-06"
     }
   ],
   "awards": [
@@ -119,29 +129,29 @@
       "title": "Best Final Project",
       "date": "2023-11-01",
       "awarder": "MindHub LA",
-      "summary": "Recognized by MindHub LA for outstanding final project (MyTinerary)."
+      "summary": "Recognized for outstanding final project (MyTinerary)"
     }
   ],
   "skills": [
     {
       "category": "Programming Languages",
-      "names": ["Javascript", "Python", "C"]
+      "names": ["Javascript", "TypeScript", "Python", "C"]
     },
     {
       "category": "Frontend Technologies",
-      "names": ["HTML", "CSS", "React", "Astro", "Tailwind"]
+      "names": ["HTML", "CSS", "React", "Astro", "Tailwind", "NextJS", "SASS"]
     },
     {
-      "category": "Backend Frameworks",
-      "names": ["Express", "Flask"]
+      "category": "Backend Technologies",
+      "names": ["Express", "Flask", "Apollo", "GraphQL"]
     },
     {
       "category": "Databases",
-      "names": ["MySQL", "SQLite", "MongoDB"]
+      "names": ["PostgreSQL", "MySQL", "SQLite", "MongoDB"]
     },
     {
       "category": "Other Tools",
-      "names": ["Git", "GitHub", "node", "npm", "bun"]
+      "names": ["Git", "GitHub", "Node.js"]
     },
     {
       "category": "Soft Skills",
@@ -151,11 +161,28 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Limited working proficiency"
+      "fluency": "Professional working proficiency"
     },
     {
       "language": "Spanish",
       "fluency": "Native Speaker"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Git Essential Training: The Basics"
+    },
+    {
+      "name": "HTML Essential Training"
+    },
+    {
+      "name": "Bootcamp Desarrollador Web Front End"
+    },
+    {
+      "name": "Programming Fundamentals"
+    },
+    {
+      "name": "Desarrollador Full Stack MERN"
     }
   ],
   "projects": [
@@ -169,54 +196,16 @@
     {
       "name": "Askbot",
       "isActive": false,
-      "description": "A SaaS platform that provides businesses with chatbot and AI solutions.",
+      "description": "SaaS platform with chatbot and AI solutions",
       "highlights": ["Lead Frontend Developer", "React", "Tailwind"],
       "url": "https://askbot.site/"
     },
     {
-      "name": "ADN Soluciones Web",
-      "isActive": true,
-      "description": "A platform to build and grow your online business",
-      "highlights": ["Frontend Developer", "React", "Tailwind"],
-      "url": "https://adnwebsolutions.github.io/ADN-Solutions/",
-      "github": ""
-    },
-    {
-      "name": "JOYAMATE",
-      "isActive": false,
-      "description": "An online store for special Creole jewelry and mates",
-      "highlights": ["End-To-End Developer", "React", "Tailwind"],
-      "url": "https://joyamate.com.ar"
-    },
-    {
       "name": "MyTinerary",
       "isActive": true,
-      "description": "A website for creating travel itineraries easily and efficiently.",
-      "highlights": [
-        "End-To-End Developer",
-        "Learning project",
-        "React",
-        "Tailwind",
-        "Node",
-        "MongoDB",
-        "Express"
-      ],
-      "url": "https://dot-tsu.github.io/mytinerary-front/",
-      "github": "https://github.com/dot-tsu/myTinerary-front"
-    },
-    {
-      "name": "Frontend Mentor",
-      "isActive": true,
-      "description": "Completed coding challenges from Frontend Mentor to enhance skills and learn new technologies.",
-      "highlights": [
-        "Learning projects",
-        "Convert Figma Designs",
-        "Frontend",
-        "React",
-        "Tailwind"
-      ],
-      "url": "https://www.frontendmentor.io/profile/dot-tsu",
-      "github": "https://github.com/stars/dot-tsu/lists/frontend-mentor"
+      "description": "Travel itineraries creation platform",
+      "highlights": ["MERN Stack", "Learning project", "Award-winning"],
+      "url": "https://dot-tsu.github.io/mytinerary-front/"
     }
   ]
 }

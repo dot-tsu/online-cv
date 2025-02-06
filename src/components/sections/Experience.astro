@@ -29,7 +29,7 @@ import { work } from "@cv";
             <p class="text-muted pb-2">{position}</p>
             <p>{summary}</p>
             <ul class="list-disc pl-8">
-              {highlights.map((highlight) => (
+              {highlights?.map((highlight) => (
                 <li>{highlight}</li>
               ))}
             </ul>
