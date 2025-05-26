@@ -156,7 +156,11 @@
       "category": "Backend Technologies",
       "names": [
         "Apollo",
-        "GraphQL"
+        "GraphQL",
+        "Node",
+        "Express",
+        "MongoDB",
+        "PostgreSQL"
       ]
     }
   ],
@@ -192,21 +196,34 @@
       "name": "Laggy or not",
       "isActive": true,
       "description": "A simple app to easily check your ping",
-      "highlights": ["End-To-End Developer", "TypeScript", "Astro", "Tailwind"],
+      "highlights": [
+        "End-To-End Developer",
+        "TypeScript",
+        "Astro",
+        "Tailwind"
+      ],
       "url": "https://dot-tsu.github.io/laggy-or-not/"
     },
     {
       "name": "Askbot",
       "isActive": false,
       "description": "SaaS platform with chatbot and AI solutions",
-      "highlights": ["Lead Frontend Developer", "React", "Tailwind"],
+      "highlights": [
+        "Lead Frontend Developer",
+        "React",
+        "Tailwind"
+      ],
       "url": "https://askbot.site/"
     },
     {
       "name": "MyTinerary",
       "isActive": true,
       "description": "Travel itineraries creation platform",
-      "highlights": ["MERN Stack", "Learning project", "Award-winning"],
+      "highlights": [
+        "MERN Stack",
+        "Learning project",
+        "Award-winning"
+      ],
       "url": "https://dot-tsu.github.io/mytinerary-front/"
     }
   ]
