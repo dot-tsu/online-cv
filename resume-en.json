@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Luca Di Marco",
-    "label": "Frontend dev @ WeDevelop | Shaping tomorrow with today’s code",
+    "label": "Frontend dev @ WeDevelop | Shaping tomorrow with today's code",
     "email": "lucanahtsu@gmail.com",
     "phone": "+54 387 619-6032",
     "url": "https://dot-tsu.github.io",
     "image": "https://media.licdn.com/dms/image/v2/D4D03AQEXP97VZpsMxg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719382102328?e=1744243200&v=beta&t=fGGoVWMb_zx5m7XM_Q_xChHO0NHg_xYuSOqTRok9KV0",
-    "summary": "Made my first website at 9 years old. Currently skilled developer in TypeScript, Astro, NextJS, CSS/Tailwind and React. Constantly learning and believing that tomorrow is always better.",
+    "summary": "Made my first website at 9 years old, I'm extremely creative and work tirelessly to achieve my goals. Currently skilled developer in TypeScript, Astro, Next, CSS/Tailwind and React. Constantly learning and believing that tomorrow is always better.",
     "location": {
       "city": "Salta",
       "countryCode": "AR",
-      "region": "Argentina"
+      "region": "Salta, Argentina"
     },
     "profiles": [
       {
@@ -27,87 +27,92 @@
   },
   "work": [
     {
+      "name": "Nubel",
+      "position": "Jr Front End Developer",
+      "startDate": "2024-12",
+      "endDate": null,
+      "summary": "Developing a next-generation hiring platform that redefines traditional job searching",
+      "location": "Vancouver, British Columbia, Canada",
+      "highlights": [
+        "Built cloud-based video system using WebRTC for candidate question assessments"
+      ]
+    },
+    {
+      "name": "Nubel",
+      "position": "Trainee Front End Developer",
+      "startDate": "2024-09",
+      "endDate": "2024-12",
+      "summary": "Developing a next-generation hiring platform that redefines traditional job searching",
+      "location": "Vancouver, British Columbia, Canada",
+      "highlights": [
+        "Implemented geolocalization system by parsing and integrating geographic data for 200+ countries/regions",
+        "Developed core UI component library"
+      ]
+    },
+    {
       "name": "WeDevelop",
       "position": "Full Stack Developer",
       "startDate": "2024-09",
       "endDate": null,
-      "summary": "Developing innovative recruitment solutions through modern web technologies",
+      "summary": "Developing a innovative recruitment solution through modern web technologies",
       "location": "Florida, United States",
       "url": "https://wedevelop.me"
     },
     {
-      "name": "Nubel (WeDevelop Subsidiary)",
-      "position": "Junior Front End Developer",
-      "startDate": "2024-09",
-      "endDate": null,
-      "summary": "Developing a next-generation hiring platform that redefines traditional job searching",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://www.nubel.ca",
-      "highlights": [
-        "Implemented geolocalization system by parsing and integrating geographic data for 200+ countries/regions",
-        "Developed core UI component library forming foundation of platform's design system",
-        "Built cloud-based video response system using WebRTC for candidate question assessments"
-      ]
-    },
-    {
       "name": "dot tsu",
       "position": "Full Stack Developer",
-      "url": "https://www.linkedin.com/in/luca-di-marco/",
       "startDate": "2021-11",
       "endDate": "2024-09",
-      "summary": "Collaborated with startups and small companies to enhance their digital presence",
+      "summary": "Worked with a handful of startups and small teams to help them build or improve their online presence",
       "location": "Salta, Argentina",
       "highlights": [
-        "Provided one-to-one guidance and tutoring to students",
-        "Developed custom solutions for client-specific needs",
-        "Created responsive websites and web applications"
+        "Gave 1-on-1 support and tutoring to students",
+        "Built custom features and tools based on what each client needed",
+        "Designed and developed responsive websites and web apps from scratch"
       ]
     },
     {
       "name": "ADN Soluciones Web",
       "position": "Front End Developer",
-      "url": "https://adnwebsolutions.github.io/ADN-Solutions/",
       "startDate": "2023-05",
       "endDate": "2024-05",
-      "summary": "Collaborated on web development solutions for small businesses",
+      "summary": "Worked with a small dev team in a startup focused on building web solutions for small businesses",
       "location": "Córdoba, Argentina",
       "highlights": [
-        "Contributed to 3 successful group projects",
-        "Designed and developed company landing page",
-        "Implemented Git version control workflows"
+        "Shipped 3 full projects as part of a team",
+        "Designed and built the company's main landing page from scratch"
       ]
     },
     {
       "name": "SaTech / Country Club: El Tipal",
       "position": "Assistant Software Engineer",
-      "url": "https://www.eltipalsalta.com.ar/",
       "startDate": "2022-07",
       "endDate": "2023-07",
-      "summary": "Contributed to development and optimization of security systems",
+      "summary": "Helped build and improve a security system for a country club using Arduinos and C",
+      "location": "Capital, Salta, Argentina",
       "highlights": [
-        "Reduced false alarms by 15% through system improvements",
-        "Optimized memory usage by 35% in legacy codebase",
-        "Received positive feedback for reliable solutions"
+        "Tweaked the detection logic to cut down false alarms by about 15%",
+        "Cleaned up and optimized old code, reducing memory usage by around 35%",
+        "Got great feedback for writing simple and reliable fixes"
       ]
     },
     {
       "name": "7CAVAS",
-      "position": "Web Master",
-      "url": "https://7cavas.com/",
+      "position": "Webmaster",
       "startDate": "2020-02",
       "endDate": "2022-11",
-      "summary": "Managed and optimized WordPress website content and performance",
+      "summary": "Managed and improved the WordPress site for 7CAVAS, focusing on performance and content",
+      "location": "Capital, Salta, Argentina",
       "highlights": [
-        "Reduced page load time by 2 seconds through optimization",
-        "Improved SEO rankings by 20% through best practices",
-        "Increased referral traffic by 23% via social campaigns"
+        "Made the site noticeably faster by optimizing images, plugins, and theme settings",
+        "Applied basic SEO practices to help the site rank better on Google",
+        "Handled the brand's social media and helped run some campaigns"
       ]
     }
   ],
   "education": [
     {
       "institution": "Open Source Society University",
-      "url": "",
       "area": "Computer Science",
       "studyType": "Computer Science",
       "startDate": "2024-07",
@@ -115,7 +120,6 @@
     },
     {
       "institution": "Harvard Online",
-      "url": "https://pll.harvard.edu/course/cs50-introduction-computer-science",
       "area": "Introduction to Computer Science",
       "studyType": "Course",
       "startDate": "2023-02",
@@ -123,55 +127,47 @@
     },
     {
       "institution": "Argentina Programa",
-      "url": "https://argentinaprograma.unsam.edu.ar/",
       "area": "Computer Software Engineering",
       "studyType": "Courses",
       "startDate": "2022-01",
       "endDate": "2023-06"
     }
   ],
-  "awards": [
-    {
-      "title": "Best Final Project",
-      "date": "2023-11-01",
-      "awarder": "MindHub LA",
-      "summary": "Recognized for outstanding final project (MyTinerary)"
-    }
-  ],
   "skills": [
     {
       "category": "Programming Languages",
-      "names": ["Javascript", "TypeScript", "Python", "C"]
+      "names": [
+        "TypeScript",
+        "JavaScript",
+        "C"
+      ]
     },
     {
       "category": "Frontend Technologies",
-      "names": ["HTML", "CSS", "React", "Astro", "Tailwind", "NextJS", "SASS"]
+      "names": [
+        "Astro",
+        "Next",
+        "CSS",
+        "Tailwind",
+        "React"
+      ]
     },
     {
       "category": "Backend Technologies",
-      "names": ["Express", "Flask", "Apollo", "GraphQL"]
-    },
-    {
-      "category": "Databases",
-      "names": ["PostgreSQL", "MySQL", "SQLite", "MongoDB"]
-    },
-    {
-      "category": "Other Tools",
-      "names": ["Git", "GitHub", "Node.js"]
-    },
-    {
-      "category": "Soft Skills",
-      "names": ["Creativity", "Adaptability", "Organization"]
+      "names": [
+        "Apollo",
+        "GraphQL"
+      ]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Professional working proficiency"
+      "fluency": "Professional Working"
     },
     {
       "language": "Spanish",
-      "fluency": "Native Speaker"
+      "fluency": "Native or Bilingual"
     }
   ],
   "certifications": [
